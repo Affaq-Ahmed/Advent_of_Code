@@ -1,4 +1,4 @@
-// This is my solution for the second problem of day 1 of Advent of Code 2022
+// This is my solution for the first problem of day 2 of Advent of Code 2022
 // Code Written in JavaScript
 // https://adventofcode.com/2022/day/2/input
 
