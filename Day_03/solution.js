@@ -1,6 +1,6 @@
 // This is my solution for the first problem of day 3 of Advent of Code 2022
 // Code Written in JavaScript
-// https://adventofcode.com/2022/day/2/input
+// https://adventofcode.com/2022/day/3/input
 
 const { readFileSync } = require('fs');
 
